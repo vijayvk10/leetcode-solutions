@@ -35,4 +35,3 @@ class MyQueue {
         return input.empty() && output.empty();
     }
 }
-
