@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/vijayvk10/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
