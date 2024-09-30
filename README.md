@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0729-my-calendar-i](https://github.com/vijayvk10/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/vijayvk10/leetcode-solutions/tree/master/0859-design-circular-deque) |
@@ -106,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
