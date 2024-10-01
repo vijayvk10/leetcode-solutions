@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0729-my-calendar-i](https://github.com/vijayvk10/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/vijayvk10/leetcode-solutions/tree/master/0859-design-circular-deque) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/vijayvk10/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijayvk10/leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -123,4 +127,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
