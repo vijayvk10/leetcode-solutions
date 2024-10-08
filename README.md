@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0567-permutation-in-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijayvk10/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/vijayvk10/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijayvk10/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vijayvk10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/vijayvk10/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijayvk10/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijayvk10/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijayvk10/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
