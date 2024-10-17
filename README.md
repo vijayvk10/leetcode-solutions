@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0670-maximum-swap](https://github.com/vijayvk10/leetcode-solutions/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/vijayvk10/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijayvk10/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijayvk10/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
