@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/vijayvk10/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/vijayvk10/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -230,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/vijayvk10/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
