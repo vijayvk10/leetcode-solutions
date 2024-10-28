@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijayvk10/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijayvk10/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijayvk10/leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijayvk10/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/vijayvk10/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijayvk10/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijayvk10/leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/vijayvk10/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/vijayvk10/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijayvk10/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
