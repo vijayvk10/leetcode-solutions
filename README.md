@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijayvk10/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vijayvk10/leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vijayvk10/leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0670-maximum-swap](https://github.com/vijayvk10/leetcode-solutions/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/vijayvk10/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/vijayvk10/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijayvk10/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijayvk10/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vijayvk10/leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
