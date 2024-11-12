@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/vijayvk10/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/vijayvk10/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vijayvk10/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/vijayvk10/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijayvk10/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/vijayvk10/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/vijayvk10/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Segment Tree
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/vijayvk10/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/vijayvk10/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vijayvk10/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
