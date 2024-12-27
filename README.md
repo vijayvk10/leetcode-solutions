@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/vijayvk10/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vijayvk10/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/vijayvk10/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [1063-best-sightseeing-pair](https://github.com/vijayvk10/leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vijayvk10/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1063-best-sightseeing-pair](https://github.com/vijayvk10/leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vijayvk10/leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
