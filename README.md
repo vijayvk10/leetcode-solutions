@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vijayvk10/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/vijayvk10/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/vijayvk10/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vijayvk10/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/vijayvk10/leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
