@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vijayvk10/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/vijayvk10/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vijayvk10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/vijayvk10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vijayvk10/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/vijayvk10/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vijayvk10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/vijayvk10/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
