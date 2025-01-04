@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/vijayvk10/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vijayvk10/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vijayvk10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vijayvk10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/vijayvk10/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vijayvk10/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/vijayvk10/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vijayvk10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/vijayvk10/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vijayvk10/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vijayvk10/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vijayvk10/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vijayvk10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/vijayvk10/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vijayvk10/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
