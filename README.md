@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vijayvk10/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vijayvk10/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/vijayvk10/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vijayvk10/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vijayvk10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vijayvk10/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/vijayvk10/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vijayvk10/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vijayvk10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vijayvk10/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vijayvk10/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vijayvk10/leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Number Theory
