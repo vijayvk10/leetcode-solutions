@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vijayvk10/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vijayvk10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/vijayvk10/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0443-string-compression](https://github.com/vijayvk10/leetcode-solutions/tree/master/0443-string-compression) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/vijayvk10/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0670-maximum-swap](https://github.com/vijayvk10/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vijayvk10/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vijayvk10/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vijayvk10/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
