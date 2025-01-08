@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/vijayvk10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/vijayvk10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vijayvk10/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvk10/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vijayvk10/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vijayvk10/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/vijayvk10/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vijayvk10/leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/vijayvk10/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/vijayvk10/leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vijayvk10/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0670-maximum-swap](https://github.com/vijayvk10/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vijayvk10/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vijayvk10/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
