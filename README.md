@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vijayvk10/leetcode-solutions/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/vijayvk10/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0670-maximum-swap](https://github.com/vijayvk10/leetcode-solutions/tree/master/0670-maximum-swap) |
+| [2383-add-two-integers](https://github.com/vijayvk10/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2716-prime-subtraction-operation](https://github.com/vijayvk10/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
